@@ -1,0 +1,30 @@
+* {
+  font-family: "Open Sans", sans-serif;
+}
+.carousel-item img {
+  height: calc(100vh - 3.5rem);
+}
+.carousel-caption {
+  bottom: 73px;
+}
+
+img {
+  min-width: 100%;
+}
+
+.services img {
+  height: 100%;
+  width: 100%;
+}
+
+.my_videos {
+  background: #a6dcef;
+}
+
+.modal {
+  top: 37%;
+}
+
+.scrollspy {
+  position: relative;
+}
